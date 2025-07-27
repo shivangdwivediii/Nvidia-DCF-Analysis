@@ -47,7 +47,8 @@ The Excel file includes:
   - Yahoo Finance / Macrotrends
   - Analyst consensus projections
 
----
+<img width="1881" height="765" alt="image" src="https://github.com/user-attachments/assets/31a24949-a60d-4a72-a1b3-2f15acd49276" />
+
 
 ## 📌 Disclaimer
 
